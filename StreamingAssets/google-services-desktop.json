@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78729872865",
+    "project_id": "m03-baby-care",
+    "storage_bucket": "m03-baby-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78729872865:android:efde0073383b6547513ea0",
+        "android_client_info": {
+          "package_name": "com.m03.baby.care.panda.life.world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9-fXDw75Pn188qQSvW4LkwqQxCBEUMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
